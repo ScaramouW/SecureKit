@@ -1,7 +1,6 @@
 # InfoSec Governance & Risk Management — Study Notes
 
 > 📖 Daily reading notes from: *CISSP All-in-One Exam Guide* — Matt Walker  
-> 🎯 Goal: Build a solid foundation in security governance and risk management ahead of a cybersecurity internship.  
 > 🗓️ Format: One recap per reading session, progressively covering each domain.
 
 ---
